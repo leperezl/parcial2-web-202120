@@ -7,7 +7,8 @@ const english = {
     gallery: 'Gallery',
     english: 'English',
     spanish: 'Spanish',
-    language: 'Language'
+    language: 'Language',
+    inventory: 'Inventory units'
   },
 };
 

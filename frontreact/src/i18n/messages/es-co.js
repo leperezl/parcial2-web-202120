@@ -7,7 +7,8 @@ const spanish = {
     gallery: 'Galería',
     english: 'Inglés',
     spanish: 'Español',
-    language: 'Idioma'
+    language: 'Idioma',
+    inventory: 'Unidades de Inventario'
   },
 };
 

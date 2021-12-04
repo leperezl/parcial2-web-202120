@@ -2,7 +2,7 @@ import React from 'react';
 import { LOCALES } from '../i18n/locales';
 import Dropdown from 'react-bootstrap/DropDown'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {FormattedMessage} from 'react-intl';
+
 import '../index.css'
 
 export const I18nSelect = (props) => {
