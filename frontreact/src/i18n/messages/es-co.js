@@ -5,6 +5,9 @@ const spanish = {
     report: 'Reporte',
     home: 'Inicio',
     gallery: 'Galería',
+    english: 'Inglés',
+    spanish: 'Español',
+    language: 'Idioma'
   },
 };
 

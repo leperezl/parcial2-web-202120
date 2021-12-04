@@ -15,7 +15,7 @@ const cont = require('../controllers/product')
   console.log(filteredProds);*/
 router.get('/', async function (req, res, next) {
   const filters = req.params.q;
-  const data = cont.getProducts(req.query)
+  const data = cont.getProducts(req.query.q)
   res.send(data);
 });
 
