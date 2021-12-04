@@ -15,8 +15,8 @@ export const I18nSelect = (props) => {
   }
   return (
     <select onChange= {clickLang}>
-      <option value={LOCALES.ENGLISH}>US</option>
-      <option value={LOCALES.SPANISH}>CO</option>
+      <option value={LOCALES.ENGLISH}>English</option>
+      <option value={LOCALES.SPANISH}>Spanish</option>
     </select>
   );
 };
